@@ -16,7 +16,5 @@
     "url": "https://github.com/Darragh1996/face-time-recognition/issues"
   },
   "homepage": "https://github.com/Darragh1996/face-time-recognition#readme",
-  "dependencies": {
-    "face-api.js": "^0.22.2"
-  }
+  "dependencies": {}
 }
