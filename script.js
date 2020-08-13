@@ -3,7 +3,7 @@ const video = document.getElementById("video");
 function startVideo() {
   navigator.getUserMedia(
     { video: {} },
-    stream => (video.srcObjext = stream),
+    stream => (video.srcObject = stream),
     err => console.error(err)
   );
 }
